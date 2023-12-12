@@ -1,0 +1,2 @@
+- Clone the band's website on [w3school](https://www.w3schools.com/w3css/tryw3css_templates_band.htm#).
+- Deploy at [The band](https://duongtranngoc.github.io/the-band/).
