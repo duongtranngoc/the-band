@@ -207,7 +207,7 @@ html {
     position: relative;
     margin-top: var(--header-height);
     padding-top: 50%;
-    background: url('/assets/images/banner/chicago.jpg') top center / cover no-repeat;
+    background: url('../images/banner/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
